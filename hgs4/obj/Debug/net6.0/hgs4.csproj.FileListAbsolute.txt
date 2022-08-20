@@ -1,0 +1,15 @@
+C:\Users\Yasin\source\repos\hgs4\hgs4\bin\Debug\net6.0\hgs4.exe
+C:\Users\Yasin\source\repos\hgs4\hgs4\bin\Debug\net6.0\hgs4.deps.json
+C:\Users\Yasin\source\repos\hgs4\hgs4\bin\Debug\net6.0\hgs4.runtimeconfig.json
+C:\Users\Yasin\source\repos\hgs4\hgs4\bin\Debug\net6.0\hgs4.dll
+C:\Users\Yasin\source\repos\hgs4\hgs4\bin\Debug\net6.0\hgs4.pdb
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.dll
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\refint\hgs4.dll
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.pdb
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\hgs4.genruntimeconfig.cache
+C:\Users\Yasin\source\repos\hgs4\hgs4\obj\Debug\net6.0\ref\hgs4.dll
